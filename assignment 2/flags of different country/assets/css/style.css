@@ -1,0 +1,198 @@
+body{
+  background: linear-gradient( grey, rgb(51, 8, 8))
+}
+* p {
+  font-size: 30px; text-align: center;
+font-family: cursive;
+color: brown;
+}
+
+.sobuj{
+  width: 300px;
+  height: 200px;
+  background-color:rgb(8, 134, 8); 
+  
+  margin: 50px auto;
+  
+overflow: hidden;
+width: 300px;
+height: 200px;
+
+
+margin: 50px auto;
+border: 1px solid 
+}
+
+ 
+
+.lal{
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  border-radius: 50%;
+  margin: 25px auto;
+}
+
+.germany{
+  width: 300px;
+  height: 50px;
+  background-color: red;
+  margin: 50px auto; 
+  border-top:50px solid black;
+  border-bottom: 50px solid yellow;
+}
+
+.belgium{
+width: 100px;
+height: 200px;
+background-color: yellow;
+margin: 75px auto; 
+border-left: 85px solid black;
+border-right:85px solid red ;
+}
+
+.japan{width: 300px;
+  height: 200px;
+  background-color: white; 
+  
+  margin: 50px auto;
+  border: 1px solid 
+black;
+overflow: hidden;
+width: 300px;
+height: 200px;
+background-color: white; 
+
+margin: 50px auto;
+border: 1px solid 
+}
+.red{
+width: 150px;
+height: 150px;
+background-color: red;
+border-radius: 50%;
+margin: 25px auto;
+}
+.argen{
+
+width: 300px;
+height: 50px;
+background-color: white;
+margin: 50px auto;
+border-top: 50px solid rgb(0, 183, 255);
+border-bottom: 50px solid rgb(0, 183, 255);
+text-align: center;
+
+}
+
+.argen img {
+width: 50px;
+
+
+}
+
+.nigeria{
+width: 100px;
+height:200px ;
+background-color: white;
+margin: 75px auto;
+border-left: 85px solid green;
+border-right: 85px solid green;
+}
+.canada{
+width: 200px;
+height: 200px;
+background-color: white;
+margin: 50px auto;
+border-left: 85px solid red;
+border-right: 85px solid red;
+text-align:center;
+}
+.canada img{width: 100px;
+
+}
+
+
+.chad{
+width: 100px;
+height: 200px;
+background-color: yellow;
+margin: 75px auto;
+border-left:85px solid rgb(119, 0, 255) ;
+border-right: 85px solid red;
+outline: 1px solid black;
+}
+
+.vietnam{
+width: 300px;
+height: 200px;
+background-color: rgb(211, 20, 20);
+margin: 50px auto;
+text-align:center;
+}
+.vietnam img{
+width: 200px;
+}
+
+.south{
+width: 300px;
+height: 200px;
+background-color: white;
+margin: 50px auto;
+border: 1px solid black;
+text-align: center;
+}
+.south img{
+
+width: 150px;
+}
+.china{
+width: 300px;
+height: 200px;
+background-color: rgb(228, 42, 18);
+margin: 50px auto;
+text-align: left;
+
+}
+.china img{
+  width: 100px;
+}
+.russia{
+width: 300px;
+height: 50px;
+background-color: blue;
+margin: 50px auto;
+border-top: 50px solid white;
+
+border-bottom: 50px solid red;
+
+outline: 1px solid rgb(19, 11, 1);}
+
+.france{
+width: 100px;
+height: 200px;
+background-color: white;
+margin: 50px auto;
+border-left: 85px solid blue;
+border-right: 85px solid red;
+outline: 1px solid black;
+}
+.soudi{
+width: 300px;
+height: 200px;
+background-color:rgb(18, 99, 55) ;
+margin: 50px auto;
+text-align: left;
+}
+.soudi img{width: 100;}
+
+.turki{
+  width: 300px;
+height: 200px;
+background-color: red;
+margin: 50px auto;
+text-align: center;
+
+
+}
+ .turki img{width: 250px;}

@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+}
+
+.cv{ 
+ background: linear-gradient(black, grey);
+ padding: 50px;
+}
+
+.cv h1{
+
+    font-size: 30px;
+    text-decoration: underline;
+}
+.cv img{
+    width: 200px;
+
+}
+.cv b{
+text-decoration-line: underline;
+
+
+}

@@ -1,0 +1,49 @@
+* {
+  margin: 0px;
+}
+
+.baby-1 {
+  width: 100%;
+  height: 300px;
+  background-color: rgb(25, 58, 68);
+  margin: 10px auto 0px;
+}
+
+.baby-2 {
+  width: 100%;
+  height: 300px;
+  background-image:
+   url("../img/baby.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position:  center;
+  margin: 10px auto 0px;
+}
+
+.baby-1 h1{
+  font-family:forte; font-size: 70px;
+  text-align: left;
+}
+
+.baby-1 p {
+  font-family:forte;
+color: rgb(216, 203, 20);
+
+}
+
+.baby-2 a {
+color: rgb(192, 17, 17);
+display: inline-block;
+padding: 10px 10px;
+
+font-size: 70px; font-style: italic;
+text-align: center;
+}
+
+
+.baby-3 {
+  width: 100%;
+  height: 500px;
+  background-color: rgb(25, 58, 68);
+  margin: 10px auto 0px;
+}

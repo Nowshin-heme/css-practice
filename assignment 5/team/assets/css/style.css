@@ -1,0 +1,80 @@
+*{margin:40px 0px;}
+
+body{
+    background-color: coral;
+}
+.team1{
+    background:linear-gradient( black, rgb(109, 224, 99)) ;
+    text-align: center;
+    padding: 15px 15px 15px; width: 460px; float: left;
+    
+}
+    .team1 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    }
+    .team1 h1{
+    font-size: larger;
+    font-family: forte;
+    font-size: 70px;
+    color: yellow;
+    
+    }
+    .team1 p {
+        font-family:cursive;
+            color: brown;
+            
+        
+    }
+
+    .team2 {
+        background:linear-gradient( black, rgb(19, 192, 155)) ;
+        text-align: center;
+        padding: 15px 15px 15px; width: 460px; float: left;
+    
+    }
+        .team2 img{
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        }
+        .team2 h1{
+        font-size: larger;
+        font-family: forte;
+        font-size: 70px;
+        color: yellow;
+        
+        }
+        .team2 p {
+           font-family:cursive;
+           color: rgb(163, 57, 57);
+            
+        }
+
+        .team3 {
+            background:linear-gradient( black, rgb(189, 73, 73)) ;
+            text-align: center;
+            padding: 15px 15px 15px; width: 460px; float: left;
+            
+        }
+            .team3 img{
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            }
+            .team3 h1{
+            font-size: larger;
+            font-family: forte;
+            font-size: 70px;
+            color: yellow;
+            
+            }
+            .team3 p {
+                font-family:cursive;
+                color: brown;
+                
+                
+            }
+
+    
